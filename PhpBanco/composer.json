@@ -1,0 +1,14 @@
+{
+    "name": "admin/php-banco",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/models"
+        }
+    },
+    "authors": [
+        {
+            "name": "Joel"
+        }
+    ],
+    "require": {}
+}
